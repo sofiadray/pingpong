@@ -1,2 +1,3 @@
 # pingpong
-so there can be a tournament
+for the tournament on friday
+run ```ruby pingpong.rb```
